@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tejaswini Thambabathula
 
-**Test Engineer | SDET Aspirant | Automation & API Testing Enthusiast**
+**Test Engineer | Automation | SDET Aspirant**
 
 Detail-oriented Test Engineer with 2+ years of experience in manual and automation testing.  
 I enjoy building reliable automation frameworks, breaking systems thoughtfully, and improving product quality through strong testing practices.
@@ -71,9 +71,9 @@ Built an automation framework to interact with LeetCode workflows using Selenium
 
 ## 🎓 Education
 
-🎓 **B.Tech in Information Technology**  
-    _Aditya College of Engineering & Technology (JNTUK)_    
-    _CGPA: **7.56** | 2020 – 2024_
+📔 **B.Tech in Information Technology**  
+    ● _Aditya College of Engineering & Technology (JNTUK)_    
+    ● _CGPA: **7.56** | 2020 – 2024_    
 📘 Intermediate (MPC) - CGPA: **9.13**  
 📗 CBSE - CGPA: **8.54**
 
