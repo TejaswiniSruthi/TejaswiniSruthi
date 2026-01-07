@@ -17,7 +17,7 @@ I enjoy building reliable automation frameworks, breaking systems thoughtfully, 
 - Transitioning towards an **SDET role** with hands-on, real-world experience
 - Believe in learning by **building, testing, and improving continuously**
 
-💡 _“ We do not break things, we fix what's broken.”_
+💡 _“ We do not break things, we try to fix what's broken.”_
 
 ## 🧪 Professional Experience
 
