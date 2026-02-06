@@ -41,17 +41,37 @@ I enjoy building reliable automation frameworks, breaking systems thoughtfully, 
 - Optimized test execution, saving **15–20 hours per testing cycle**
 - Ensured new changes didn’t break existing functionality through regression testing
 
+---
+
 ## 🚀 Automation Projects
 
-#### 🔹 UI Automation – Selenium + Java  
-🔗 **[Google Forms Automation](https://github.com/TejaswiniSruthi/GForms-Automation)**  
+#### 🔹 UI Automation – Selenium + Java
+
+🔗 **[Google Forms Automation](https://github.com/TejaswiniSruthi/GForms-Automation)**
 Automated Google Forms workflows using Selenium and Java, covering form interactions, validations, and end-to-end submission scenarios with reliable synchronization and locator strategies.
 
 ---
 
-#### 🔹 Automation Framework – Selenium + Java  
-🔗 **[LeetCode Automation](https://github.com/TejaswiniSruthi/LeetCode-Automation)**  
+#### 🔹 Automation Framework – Selenium + Java
+
+🔗 **[LeetCode Automation](https://github.com/TejaswiniSruthi/LeetCode-Automation)**
 Built an automation framework to interact with LeetCode workflows using Selenium and Java, focusing on navigation, element handling, and automation practice to strengthen framework design and stability.
+
+---
+
+#### 🔹 E-Commerce UI Automation – Selenium + Java
+
+🔗 **[Flipkart Automation](https://github.com/TejaswiniSruthi/Flipkart-Automation)**
+Automated key Flipkart user flows using Selenium and Java, including product search, filtering, and result validation, with reusable wrapper methods and explicit waits for dynamic elements.
+
+---
+
+#### 🔹 Video Platform UI Automation – Selenium + Java
+
+🔗 **[YouTube Automation](https://github.com/TejaswiniSruthi/Youtube-Automation)**
+Developed TestNG-based Selenium tests for YouTube sections like Movies, Music, News, and About, using wrapper utilities, soft assertions, and Gradle execution for stable UI validation.
+
+---
 
 ## 🛠️ Tech Stack
 
