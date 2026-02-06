@@ -31,7 +31,7 @@ I enjoy building reliable automation frameworks, breaking systems thoughtfully, 
 - Automated concurrent API workflows using **Python**, improving testing speed and reliability
 - Worked closely with **Developers, PMs, and DevOps** to integrate testing into CI/CD pipelines
 
----
+___
 
 #### 🧑‍💻 SDET Intern - Amazon Development Centre India (Jan 2024 - Jun 2024)
 
