@@ -2,8 +2,7 @@
 
 **Test Engineer | Automation | SDET Aspirant**
 
-Detail-oriented Test Engineer with 2+ years of experience in manual and automation testing.  
-I enjoy building reliable automation frameworks, breaking systems thoughtfully, and improving product quality through strong testing practices.
+Detail-oriented Test Engineer with 2+ years of experience in manual and automation testing. I enjoy building reliable automation frameworks, breaking systems thoughtfully, and improving product quality through strong testing practices.
 
 📍 **India**  
 📧 **[tejaswinisruthi183@gmail.com](mailto:tejaswinisruthi183@gmail.com)**  
