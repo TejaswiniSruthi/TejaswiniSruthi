@@ -1,20 +1,16 @@
 ## 👋 Hi, I'm Tejaswini Thambabathula
 
-**Test Engineer | Automation | SDET Aspirant**
-
-Detail-oriented Test Engineer with 2+ years of experience in manual and automation testing. I enjoy building reliable automation frameworks, breaking systems thoughtfully, and improving product quality through strong testing practices.
-
-📍 **India**  
-📧 **[tejaswinisruthi183@gmail.com](mailto:tejaswinisruthi183@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/tejaswini-qa33)**
+📧 **[tejaswinisruthi183@gmail.com](mailto:tejaswinisruthi183@gmail.com)** | 🔗 **[LinkedIn](https://www.linkedin.com/in/tejaswini-qa33)** | 💿 **[Portfolio](https://www.crio.do/learn/portfolio/tejaswinisruthi183)**
 
 ## 🚀 About Me
 
+- 2+ years of experience in manual and automation testing
 - Test Engineer at **Belzabar Software Design Pvt. Ltd.**
 - Former **SDET Intern at Amazon**
 - Strong focus on **Automation, API Testing, CI/CD, and Scalable Test Design**
 - Transitioning towards an **SDET role** with hands-on, real-world experience
 - Believe in learning by **building, testing, and improving continuously**
+- Improving product quality through effective testing practices.
 
 💡 _“ We do not break things, we try to fix what's broken.”_
 
