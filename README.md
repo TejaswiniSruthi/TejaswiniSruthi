@@ -73,21 +73,25 @@ Developed TestNG-based Selenium tests for YouTube sections like Movies, Music, N
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+**Programming Languages:**
 - Java, Python, C/C++, JavaScript, TypeScript, SQL
 
-**Automation & Testing**
-- Selenium, TestNG, JUnit, Cucumber (BDD)
-- Postman, MABL
-- API Testing, Regression Testing, Integration Testing, UAT
-- Test Planning, STLC, Debugging
+**Web & Protocols:**
+- HTML, HTTP, API
 
-**Tools & Platforms**
-- Git, GitHub, Linux, PyCharm
-- CI/CD, Terraform, AWS
-- Agile, Cloud, AI tools (ChatGPT)
+**Automation & Testing:**
+- Selenium, XPath, JUnit, TestNG, Cucumber, Page Object Model (POM), Postman, MABL, Automation Testing, Manual Testing, API Testing, Regression Testing, UAT Testing, Integration Testing, Test Planning, STLC, Debugging, Locators, OOPS, Apache POI
+
+**Tools & Platforms:**
+- Git, GitHub, PyCharm, CI/CD, Terraform, Amazon Web Services (AWS), Linux
+
+**Other Concepts:**
+- Agile, Cloud, Artificial Intelligence
+
+## 🎯Non-Technical Skills
+- Problem Solving, Leadership Skills, Effective Communication, Collaborative Teamwork, Critical Thinking
 
 ## 🎓 Education
 
@@ -105,18 +109,11 @@ Developed TestNG-based Selenium tests for YouTube sections like Movies, Music, N
 - ✅ Cisco NDG Linux & C++ Programming Essentials
 - ✅ HackerRank SQL (Basic)
 - ✅ NPTEL - Joy of Computing with Python
+- 🏅 Salesforce Learner Badges (10)
 - ⭐ 5★ HackerRank (Problem Solving, SQL, C++)
 - 🧠 500+ problems (CodeMind)
 - 🧩 100+ LeetCode | 200+ GeeksForGeeks
 - 🏆 19 ServiceNow Learning Achievements
-- 🏅 Salesforce Learner Badges (10)
-
-
-## 📌 Currently Learning
-
-- Advanced **SDET concepts** (CRIO Program)
-- Framework design & clean automation architecture
-- CI/CD-driven testing strategies
 
 
 ## 🤝 Let’s Connect
