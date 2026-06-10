@@ -110,6 +110,11 @@ Developed TestNG-based Selenium tests for YouTube sections like Movies, Music, N
 - 🧩 100+ LeetCode | 200+ GeeksForGeeks
 - 🏆 19 ServiceNow Learning Achievements
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejaswiniSruthi&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniSruthi&layout=compact)
 
 ## 🤝 Let’s Connect
 
