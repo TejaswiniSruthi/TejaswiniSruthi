@@ -5,7 +5,7 @@
 ### Test Engineer &nbsp;|&nbsp; SDET &nbsp;|&nbsp; Automation & API Testing &nbsp;|&nbsp; Problem Solver
 
 [![Email](https://img.shields.io/badge/Email-tejaswinisruthi183%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tejaswinisruthi183@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tejaswini--qa33-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswini-qa33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TejaswiniSruthi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TejaswiniSruthi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Crio.do-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white)](https://www.crio.do/learn/portfolio/tejaswinisruthi183)
 
 </div>
