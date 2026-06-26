@@ -18,7 +18,6 @@
 - 🧪 Former **SDET Intern at Amazon** (RME team, Compass microservices)
 - 🎯 Actively transitioning into a full **SDET / Software Development role**
 - 📚 Currently leveling up on **pytest, Python `requests`, event-driven architecture (Kafka/RabbitMQ), and API contract testing (Pact/Schemathesis)**
-- 🎓 Planning a **Master's in Software Engineering**, balancing AI literacy with core systems/DSA fundamentals
 - 🧠 Following **Striver's SDE Sheet** for DSA prep - Java for automation, C++ for DSA
 
 > 💡 *"We do not break things, we try to fix what's broken."*
