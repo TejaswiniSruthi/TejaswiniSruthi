@@ -19,7 +19,7 @@
 - 🎯 Actively transitioning into a full **SDET / Software Development role**
 - 📚 Currently leveling up on **pytest, Python `requests`, event-driven architecture (Kafka/RabbitMQ), and API contract testing (Pact/Schemathesis)**
 - 🎓 Planning a **Master's in Software Engineering**, balancing AI literacy with core systems/DSA fundamentals
-- 🧠 Following **Striver's SDE Sheet** for DSA prep — Java for automation, C++ for DSA
+- 🧠 Following **Striver's SDE Sheet** for DSA prep - Java for automation, C++ for DSA
 
 > 💡 *"We do not break things, we try to fix what's broken."*
 
@@ -27,7 +27,7 @@
 
 ## 🧪 Professional Experience
 
-### 🏢 Test Engineer — Belzabar Software Design Pvt. Ltd.
+### 🏢 Test Engineer - Belzabar Software Design Pvt. Ltd.
 *Aug 2024 – Present*
 
 - Automated end-to-end workflows using **Selenium (Java), TestNG, Cucumber (BDD), Postman, and MABL**
@@ -38,7 +38,7 @@
 - Automated concurrent API workflows using **Python**, improving speed and reliability
 - Collaborated with Developers, PMs, and DevOps to embed testing into CI/CD pipelines
 
-### 🧑‍💻 SDET Intern — Amazon Development Centre India
+### 🧑‍💻 SDET Intern - Amazon Development Centre India
 *Jan 2024 – Jun 2024*
 
 - Built automated **integration tests for Compass microservices**
@@ -63,7 +63,7 @@
 ![TestNG](https://img.shields.io/badge/TestNG-E34C26?style=flat-square)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
-End-to-end e-commerce framework (POM) covering registration, login, search, cart, checkout, and order placement — with Selenium Grid execution and automatic screenshot capture.
+End-to-end e-commerce framework (POM) covering registration, login, search, cart, checkout, and order placement - with Selenium Grid execution and automatic screenshot capture.
 
 </td>
 <td width="50%" valign="top">
@@ -72,7 +72,7 @@ End-to-end e-commerce framework (POM) covering registration, login, search, cart
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-UI suite for a video platform — search, sorting, video upload flow, alert and dropdown handling, plus like-count persistence validated across multiple browser tabs.
+UI suite for a video platform - search, sorting, video upload flow, alert and dropdown handling, plus like-count persistence validated across multiple browser tabs.
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ Form interactions, field validations, and end-to-end submission scenarios with r
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-Automation framework for LeetCode workflows — navigation, element handling, and framework design practice.
+Automation framework for LeetCode workflows - navigation, element handling, and framework design practice.
 
 </td>
 <td width="50%" valign="top">
@@ -167,7 +167,7 @@ Console quiz app demonstrating OOP design, with full unit test coverage for quiz
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-Standard and scientific calculator with unit-tested operations — power, modulo, square root, and more.
+Standard and scientific calculator with unit-tested operations - power, modulo, square root, and more.
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +176,7 @@ Standard and scientific calculator with unit-tested operations — power, modulo
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-Structured SQL learning notes and practice queries — DDL/DML, joins, filtering, aggregates — organized by topic for interview revision.
+Structured SQL learning notes and practice queries - DDL/DML, joins, filtering, aggregates - organized by topic for interview revision.
 
 </td>
 </tr>
@@ -186,7 +186,7 @@ Structured SQL learning notes and practice queries — DDL/DML, joins, filtering
 #### 📊 Apache POI *(coming soon)*
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-Excel/data-handling project — details to be added.
+Excel/data-handling project - details to be added.
 
 </td>
 <td width="50%" valign="top">
@@ -223,8 +223,8 @@ Excel/data-handling project — details to be added.
 Aditya College of Engineering & Technology (JNTUK)
 CGPA: **7.56** &nbsp;|&nbsp; 2020 – 2024
 
-- Intermediate (MPC) — CGPA: **9.13**
-- CBSE — CGPA: **8.54**
+- Intermediate (MPC) - CGPA: **9.13**
+- CBSE - CGPA: **8.54**
 
 ---
 
@@ -237,7 +237,7 @@ CGPA: **7.56** &nbsp;|&nbsp; 2020 – 2024
 - ✅ Red Hat Linux Administration
 - ✅ Cisco NDG Linux & C++ Programming Essentials
 - ✅ HackerRank SQL (Basic)
-- ✅ NPTEL — Joy of Computing with Python
+- ✅ NPTEL - Joy of Computing with Python
 
 **Achievements**
 
